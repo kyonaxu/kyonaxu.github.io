@@ -1,7 +1,16 @@
 ---
 title: Hello World
-cover: /pictures/wallhaven-6d1ye6.jpg
+cover: /images/wallhaven-6d1ye6.jpg
+banner: /images/wallhaven-6d1ye6.jpg
 ---
+<center><small><small> 
+  <i><font color="grey">
+    图源网络，侵删
+  </font></i>
+</small></small></center>  
+
+---
+ 
 Welcome to [Hexo](https://hexo.io/)! This is your very first post. Check [documentation](https://hexo.io/docs/) for more info. If you get any problems when using Hexo, you can find the answer in [troubleshooting](https://hexo.io/docs/troubleshooting.html) or you can ask me on [GitHub](https://github.com/hexojs/hexo/issues).
 
 ## Quick Start

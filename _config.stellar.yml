@@ -4,6 +4,8 @@ open_graph:
 
 article:
   type: tech # tech/story
+  auto_excerpt: 0
+
 
 logo:
   subtitle: '123|456' # '文字1 | 文字2' (鼠标放上去会切换到文字2)
@@ -11,9 +13,9 @@ logo:
 
 style:
   rightbar:
-    background-image: url(/pictures/yin.jpg)
+    background-image: url(/images/yin.jpg)
   leftbar:
-    background-image: url(/pictures/yin.jpg)
+    background-image: url(/images/yin.jpg)
     blur-px: 1px # 模糊半径
     blur-bg: var(--alpha60) # 模糊颜色  
   
