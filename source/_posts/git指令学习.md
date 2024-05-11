@@ -214,7 +214,7 @@ git reset --hard commit_id
 
 -r
 --remote：远程
-
+ 
 -a
 --all：所有
 ```
