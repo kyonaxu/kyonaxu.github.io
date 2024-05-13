@@ -4335,7 +4335,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   width: 100%;
   display: grid;
   margin: 8px 0;
-  grid-template-columns: repeat(4, 1fr);
+  grid-template-columns: repeat(3, 1fr);
   grid-gap: 8px;
 }
 .nav-area .menu::-webkit-scrollbar {
@@ -4565,7 +4565,7 @@ details.toc[open] >div.body section .header+.doc_tree {
 }
 .l_left {
   background-size: cover;
-  background-image: url("/pictures/yin.jpg");
+  background-image: url("https://gcore.jsdelivr.net/gh/cdn-x/placeholder@1.0.13/image/sidebar-bg1@small.jpg");
 }
 .l_left .leftbar-container {
   height: 100%;
@@ -4573,7 +4573,7 @@ details.toc[open] >div.body section .header+.doc_tree {
   flex-direction: column;
   word-break: break-all;
   text-align: justify;
-  --blur-px: 1px;
+  --blur-px: 100px;
   --blur-bg: var(--alpha60);
 }
 @supports ((-webkit-backdrop-filter: blur(var(--blur-px))) or (backdrop-filter: blur(var(--blur-px)))) {
